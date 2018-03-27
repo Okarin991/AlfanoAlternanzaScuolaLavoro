@@ -1,0 +1,14 @@
+I template wordpress mi sembravano limitativi e troppo facili da customizzare, ho quindi
+utilizzato : spezzoni di codice e template trovati per il web , che ho modificato entrando nell'html e css .
+
+Alcune parti sono state fatte solo usando html css, come il footerr ,alcuni bottoni,parte della home iniziale e della timeline 
+ la pagina 404 , e lo slider .
+
+Per rendere il sito responsive ho sfruttato il codice di alcuni template e lho leggermente modificato
+vedendo il risultato sul telefono .
+Il tutto avrebbe potuto essere compattato in un unico file css (intendo lo stile css) ma cosi' penso sia più ordinato ,a cneh in caso di cambiamenti e modifiche future.
+
+Per la stesura degli articoli è stato cercato di non dar nulla per scontato, in modo che le attivita' potessero essere comprese anche da una persona completamente esterna,
+magari con quasi nessuna nozione di informatica.
+
+Grazie.  Francesco Alfano 3c info . 
